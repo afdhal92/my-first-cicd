@@ -26,4 +26,4 @@ jobs:
           path: '.'
 
       - name: Lancar ke GitHub Pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4 
